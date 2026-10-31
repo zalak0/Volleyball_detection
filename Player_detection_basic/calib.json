@@ -1,0 +1,61 @@
+{
+ "note": "4 clicked landmarks: near baseline corners and near attack-line/sideline intersections (camera IMG_4838)",
+ "image_px": [
+  [
+   287,
+   990
+  ],
+  [
+   1728,
+   985
+  ],
+  [
+   628,
+   624
+  ],
+  [
+   1327,
+   624
+  ]
+ ],
+ "world_m": [
+  [
+   0,
+   0
+  ],
+  [
+   9,
+   0
+  ],
+  [
+   0,
+   6
+  ],
+  [
+   9,
+   6
+  ]
+ ],
+ "roi": [
+  150,
+  300,
+  1800,
+  1080
+ ],
+ "gate_x": [
+  -1.5,
+  10.5
+ ],
+ "gate_y": [
+  -2.5,
+  20.5
+ ],
+ "far_tiles": [
+  [
+   500,
+   330,
+   1450,
+   640
+  ]
+ ]
+}
